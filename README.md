@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2ea80dfa-a4fd-424b-91b9-17c0729b959d)
+
+
 Descripción del Proyecto:
 
 Este proyecto consiste en la creación de un formulario con una interfaz de usuario simple. Su objetivo es ayudar a mejorar la lógica de programación a través de un desafío de nivel intermedio en Java.
